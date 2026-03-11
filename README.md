@@ -18,9 +18,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ravirajput-bit/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0897-increasing-order-search-tree](https://github.com/ravirajput-bit/leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0897-increasing-order-search-tree](https://github.com/ravirajput-bit/leetcode/tree/master/0897-increasing-order-search-tree) |
+## Array
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ravirajput-bit/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ravirajput-bit/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ravirajput-bit/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ravirajput-bit/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
