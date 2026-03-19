@@ -66,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ravirajputBit/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/ravirajputBit/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0050-powx-n](https://github.com/ravirajput-bit/leetcode/tree/master/0050-powx-n) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ravirajputBit/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0050-powx-n](https://github.com/ravirajput-bit/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/ravirajputBit/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/ravirajputBit/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Dynamic Programming
