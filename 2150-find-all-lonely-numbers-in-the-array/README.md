@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-all-lonely-numbers-in-the-array">2150. Find All Lonely Numbers in the Array</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>. A number <code>x</code> is <strong>lonely</strong> when it appears only <strong>once</strong>, and no <strong>adjacent</strong> numbers (i.e. <code>x + 1</code> and <code>x - 1)</code> appear in the array.</p>
+<h2><a href="https://leetcode.com/problems/find-all-lonely-numbers-in-the-array">2270. Find All Lonely Numbers in the Array</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>. A number <code>x</code> is <strong>lonely</strong> when it appears only <strong>once</strong>, and no <strong>adjacent</strong> numbers (i.e. <code>x + 1</code> and <code>x - 1)</code> appear in the array.</p>
 
 <p>Return <em><strong>all</strong> lonely numbers in </em><code>nums</code>. You may return the answer in <strong>any order</strong>.</p>
 
