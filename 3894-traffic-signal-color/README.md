@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/traffic-signal-color">3894. Traffic Signal Color</a></h2><h3>Easy</h3><hr><p>You are given an integer <code>timer</code> representing the remaining time (in seconds) on a traffic signal.</p>
+<h2><a href="https://leetcode.com/problems/traffic-signal-color">4275. Traffic Signal Color</a></h2><h3>Easy</h3><hr><p>You are given an integer <code>timer</code> representing the remaining time (in seconds) on a traffic signal.</p>
 
 <p>The signal follows these rules:</p>
 
