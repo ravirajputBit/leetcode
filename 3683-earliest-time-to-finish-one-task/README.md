@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/earliest-time-to-finish-one-task">3683. Earliest Time to Finish One Task</a></h2><h3>Easy</h3><hr><p>You are given a 2D integer array <code>tasks</code> where <code>tasks[i] = [s<sub>i</sub>, t<sub>i</sub>]</code>.</p>
+<h2><a href="https://leetcode.com/problems/earliest-time-to-finish-one-task">4012. Earliest Time to Finish One Task</a></h2><h3>Easy</h3><hr><p>You are given a 2D integer array <code>tasks</code> where <code>tasks[i] = [s<sub>i</sub>, t<sub>i</sub>]</code>.</p>
 
 <p>Each <code>[s<sub>i</sub>, t<sub>i</sub>]</code> in <code>tasks</code> represents a task with start time <code>s<sub>i</sub></code> that takes <code>t<sub>i</sub></code> units of time to finish.</p>
 
