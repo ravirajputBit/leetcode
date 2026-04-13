@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ravirajput-bit/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/ravirajputBit/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ravirajputBit/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1848-minimum-distance-to-the-target-element](https://github.com/ravirajput-bit/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ravirajputBit/leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ravirajputBit/leetcode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2951-find-the-peaks](https://github.com/ravirajputBit/leetcode/tree/main/2951-find-the-peaks/) | Easy |
