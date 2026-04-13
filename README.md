@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/ravirajputBit/leetcode/tree/main/2951-find-the-peaks/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/ravirajputBit/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ravirajputBit/leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/ravirajput-bit/leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/ravirajputBit/leetcode/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ravirajputBit/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3866-first-unique-even-element](https://github.com/ravirajputBit/leetcode/tree/main/3866-first-unique-even-element/) | Easy |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/ravirajputBit/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2443-sum-of-number-and-its-reverse](https://github.com/ravirajputBit/leetcode/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/ravirajputBit/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/ravirajput-bit/leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/ravirajput-bit/leetcode/tree/master/3099-harshad-number) |
 ## Dynamic Programming
 |  |
