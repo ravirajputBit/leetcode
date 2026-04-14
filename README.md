@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ravirajputBit/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ravirajput-bit/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/ravirajputBit/leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ravirajput-bit/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ravirajputBit/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ravirajput-bit/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/ravirajputBit/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/ravirajputBit/leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ravirajput-bit/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/ravirajputBit/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ravirajputBit/leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 <!---LeetCode Topics End-->
