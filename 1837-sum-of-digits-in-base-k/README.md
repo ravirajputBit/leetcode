@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sum-of-digits-in-base-k">1837. Sum of Digits in Base K</a></h2><h3>Easy</h3><hr><p>Given an integer <code>n</code> (in base <code>10</code>) and a base <code>k</code>, return <em>the <strong>sum</strong> of the digits of </em><code>n</code><em> <strong>after</strong> converting </em><code>n</code><em> from base </em><code>10</code><em> to base </em><code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/sum-of-digits-in-base-k">1965. Sum of Digits in Base K</a></h2><h3>Easy</h3><hr><p>Given an integer <code>n</code> (in base <code>10</code>) and a base <code>k</code>, return <em>the <strong>sum</strong> of the digits of </em><code>n</code><em> <strong>after</strong> converting </em><code>n</code><em> from base </em><code>10</code><em> to base </em><code>k</code>.</p>
 
 <p>After converting, each digit should be interpreted as a base <code>10</code> number, and the sum should be returned in base <code>10</code>.</p>
 
