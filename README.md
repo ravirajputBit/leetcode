@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ravirajputBit/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ravirajput-bit/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/ravirajputBit/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ravirajput-bit/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ravirajputBit/leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ravirajputBit/leetcode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ravirajputBit/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ravirajput-bit/leetcode/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/ravirajputBit/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/ravirajputBit/leetcode/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ravirajput-bit/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ravirajputBit/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ravirajputBit/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ravirajputBit/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/ravirajputBit/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ravirajput-bit/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ravirajputBit/leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Prefix Sum
 |  |
