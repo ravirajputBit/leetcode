@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ravirajputBit/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ravirajputBit/leetcode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ravirajputBit/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/ravirajputBit/leetcode/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ravirajputBit/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2951-find-the-peaks](https://github.com/ravirajputBit/leetcode/tree/main/2951-find-the-peaks/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/ravirajputBit/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/ravirajputBit/leetcode/tree/main/1952-three-divisors/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/ravirajputBit/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2443-sum-of-number-and-its-reverse](https://github.com/ravirajputBit/leetcode/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/ravirajputBit/leetcode/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/ravirajputBit/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/ravirajput-bit/leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/ravirajput-bit/leetcode/tree/master/3099-harshad-number) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/ravirajputBit/leetcode/tree/main/1952-three-divisors/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/ravirajputBit/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/ravirajputBit/leetcode/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
