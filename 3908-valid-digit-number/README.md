@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/valid-digit-number">3908. Valid Digit Number</a></h2><h3>Easy</h3><hr><p>You are given an integer <code>n</code> and a digit <code>x</code>.</p>
+<h2><a href="https://leetcode.com/problems/valid-digit-number">4286. Valid Digit Number</a></h2><h3>Easy</h3><hr><p>You are given an integer <code>n</code> and a digit <code>x</code>.</p>
 
 <p>A number is considered <strong>valid</strong> if:</p>
 
