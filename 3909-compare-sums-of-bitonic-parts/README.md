@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/compare-sums-of-bitonic-parts">3909. Compare Sums of Bitonic Parts</a></h2><h3>Medium</h3><hr><p>You are given a <strong>bitonic</strong> array <code>nums</code> of length <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/compare-sums-of-bitonic-parts">4292. Compare Sums of Bitonic Parts</a></h2><h3>Medium</h3><hr><p>You are given a <strong>bitonic</strong> array <code>nums</code> of length <code>n</code>.</p>
 
 <p>Split the array into <strong>two</strong> parts:</p>
 
