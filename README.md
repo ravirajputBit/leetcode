@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/ravirajputBit/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/ravirajput-bit/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/ravirajputBit/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/ravirajputBit/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/ravirajput-bit/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/ravirajputBit/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/ravirajputBit/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/ravirajput-bit/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/ravirajputBit/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
@@ -379,8 +382,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravirajputBit/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/ravirajputBit/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ravirajputBit/leetcode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/ravirajputBit/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
