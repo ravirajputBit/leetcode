@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ravirajput-bit/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/ravirajputBit/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1122-relative-sort-array](https://github.com/ravirajputBit/leetcode/tree/main/1122-relative-sort-array/) | Easy |
+| [1345-jump-game-iv](https://github.com/ravirajput-bit/leetcode/tree/master/1345-jump-game-iv) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ravirajput-bit/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ravirajputBit/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ravirajputBit/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ravirajput-bit/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/ravirajput-bit/leetcode/tree/master/0389-find-the-difference) |
 | [1122-relative-sort-array](https://github.com/ravirajputBit/leetcode/tree/main/1122-relative-sort-array/) | Easy |
+| [1345-jump-game-iv](https://github.com/ravirajput-bit/leetcode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ravirajputBit/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ravirajputBit/leetcode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ravirajputBit/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ravirajputBit/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1345-jump-game-iv](https://github.com/ravirajput-bit/leetcode/tree/master/1345-jump-game-iv) |
 ## Linked List
 |  |
 | ------- |
