@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ravirajputBit/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ravirajputBit/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravirajputBit/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ravirajput-bit/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/ravirajputBit/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/ravirajput-bit/leetcode/tree/master/0897-increasing-order-search-tree) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ravirajputBit/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ravirajputBit/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ravirajputBit/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravirajputBit/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/ravirajputBit/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/ravirajput-bit/leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/ravirajputBit/leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ravirajputBit/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ravirajputBit/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/ravirajputBit/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravirajputBit/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/ravirajput-bit/leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ravirajput-bit/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ravirajput-bit/leetcode/tree/master/0455-assign-cookies) |
