@@ -19,10 +19,12 @@ public:
 
         ListNode* temp = prev;
         while(temp->next != NULL){
-            if(temp->next->val == val)
+            if(temp->next->val == val){
                 temp->next = temp->next->next;
-            else
+            }
+            else{
                 temp = temp->next;
+            }
         }
         return prev->next;
     }
