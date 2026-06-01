@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/ravirajputBit/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ravirajputBit/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/ravirajputBit/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/ravirajput-bit/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/ravirajputBit/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravirajputBit/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ravirajput-bit/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/ravirajputBit/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/ravirajputBit/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/ravirajput-bit/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ravirajputBit/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/ravirajputBit/leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/ravirajputBit/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ravirajputBit/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/ravirajputBit/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/ravirajput-bit/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/ravirajputBit/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
