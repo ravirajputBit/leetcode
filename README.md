@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/ravirajputBit/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/ravirajputBit/leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ravirajputBit/leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ravirajputBit/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ravirajputBit/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ravirajputBit/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/ravirajputBit/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ravirajputBit/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/ravirajputBit/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ravirajputBit/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ravirajputBit/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-sum-of-number-and-its-reverse](https://github.com/ravirajputBit/leetcode/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2951-find-the-peaks](https://github.com/ravirajputBit/leetcode/tree/main/2951-find-the-peaks/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ravirajputBit/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ravirajputBit/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
