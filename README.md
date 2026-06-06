@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ravirajputBit/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/ravirajputBit/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/ravirajputBit/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/ravirajputBit/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ravirajputBit/leetcode/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ravirajputBit/leetcode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ravirajputBit/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ravirajput-bit/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ravirajputBit/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/ravirajputBit/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/ravirajputBit/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ravirajputBit/leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ravirajputBit/leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/ravirajputBit/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
