@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/ravirajputBit/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ravirajputBit/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ravirajputBit/leetcode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ravirajputBit/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ravirajputBit/leetcode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ravirajput-bit/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ravirajputBit/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ravirajput-bit/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ravirajputBit/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ravirajputBit/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ravirajputBit/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/ravirajputBit/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ravirajputBit/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ravirajputBit/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/ravirajputBit/leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ravirajput-bit/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ravirajputBit/leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ravirajputBit/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ravirajputBit/leetcode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/ravirajputBit/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ravirajputBit/leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
