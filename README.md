@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ravirajputBit/leetcode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ravirajputBit/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ravirajputBit/leetcode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2256-minimum-average-difference](https://github.com/ravirajputBit/leetcode/tree/main/2256-minimum-average-difference/) | Medium |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ravirajput-bit/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ravirajputBit/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/ravirajputBit/leetcode/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ravirajput-bit/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ravirajputBit/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/ravirajputBit/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2256-minimum-average-difference](https://github.com/ravirajputBit/leetcode/tree/main/2256-minimum-average-difference/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/ravirajputBit/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ravirajputBit/leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ravirajputBit/leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
