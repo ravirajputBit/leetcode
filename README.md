@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ravirajputBit/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/ravirajputBit/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/ravirajput-bit/leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ravirajputBit/leetcode/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3099-harshad-number](https://github.com/ravirajput-bit/leetcode/tree/master/3099-harshad-number) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ravirajputBit/leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ravirajputBit/leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/ravirajputBit/leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ravirajputBit/leetcode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/ravirajputBit/leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ravirajputBit/leetcode/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/ravirajput-bit/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3866-first-unique-even-element](https://github.com/ravirajputBit/leetcode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Bit Manipulation
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/ravirajputBit/leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ravirajputBit/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ravirajputBit/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ravirajputBit/leetcode/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ravirajputBit/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ravirajputBit/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/ravirajputBit/leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
