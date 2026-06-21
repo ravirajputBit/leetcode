@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ravirajputBit/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ravirajputBit/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ravirajputBit/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/ravirajputBit/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ravirajput-bit/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ravirajputBit/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/ravirajputBit/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/ravirajputBit/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1122-relative-sort-array](https://github.com/ravirajputBit/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ravirajputBit/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/ravirajputBit/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/ravirajputBit/leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2126-destroying-asteroids](https://github.com/ravirajputBit/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ravirajputBit/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/ravirajputBit/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1122-relative-sort-array](https://github.com/ravirajputBit/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/ravirajputBit/leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/ravirajputBit/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ravirajputBit/leetcode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/ravirajputBit/leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ravirajputBit/leetcode/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/ravirajputBit/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ravirajputBit/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ravirajputBit/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/ravirajputBit/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ravirajputBit/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/ravirajputBit/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ravirajputBit/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
