@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ravirajputBit/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ravirajputBit/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ravirajput-bit/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/ravirajputBit/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/ravirajput-bit/leetcode/tree/master/0389-find-the-difference) |
 | [1122-relative-sort-array](https://github.com/ravirajputBit/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ravirajputBit/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ravirajputBit/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/ravirajputBit/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0912-sort-an-array](https://github.com/ravirajputBit/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1122-relative-sort-array](https://github.com/ravirajputBit/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ravirajputBit/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravirajputBit/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/ravirajputBit/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/ravirajputBit/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/ravirajputBit/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/ravirajput-bit/leetcode/tree/master/0389-find-the-difference) |
 | [0504-base-7](https://github.com/ravirajputBit/leetcode/tree/main/0504-base-7/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/ravirajputBit/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -553,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ravirajputBit/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ravirajputBit/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
