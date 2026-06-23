@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/ravirajputBit/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/ravirajputBit/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/ravirajput-bit/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/ravirajputBit/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ravirajputBit/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/ravirajputBit/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ravirajputBit/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/ravirajput-bit/leetcode/tree/master/1345-jump-game-iv) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ravirajputBit/leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ravirajput-bit/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/ravirajputBit/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ravirajputBit/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ravirajputBit/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ravirajputBit/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ravirajput-bit/leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ravirajput-bit/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ravirajput-bit/leetcode/tree/master/0455-assign-cookies) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/ravirajputBit/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ravirajput-bit/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ravirajputBit/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ravirajputBit/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ravirajput-bit/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/ravirajputBit/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1122-relative-sort-array](https://github.com/ravirajputBit/leetcode/tree/main/1122-relative-sort-array/) | Easy |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/ravirajputBit/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ravirajputBit/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/ravirajputBit/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/ravirajputBit/leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -514,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/ravirajputBit/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ravirajput-bit/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/ravirajputBit/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ravirajputBit/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ravirajputBit/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/ravirajputBit/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
