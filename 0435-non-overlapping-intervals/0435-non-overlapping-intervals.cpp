@@ -11,12 +11,14 @@ public:
         int cnt = 0, i = 1;
         int p = intervals[0][1];
         while(i < n){
-            if(intervals[i][0] >= p){
+            if(intervals[i][0] < p){
                 cnt++;
-                p = intervals[i][1];
+                i++;
+                continue;
             }
+            p = intervals[i][1];
             i++;
         }
-        return n-cnt-1;
+        return cnt;
     }
 };
