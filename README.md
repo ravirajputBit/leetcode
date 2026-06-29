@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ravirajput-bit/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ravirajput-bit/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ravirajputBit/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ravirajputBit/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ravirajputBit/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/ravirajputBit/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ravirajput-bit/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/ravirajputBit/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/ravirajputBit/leetcode/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/ravirajputBit/leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ravirajputBit/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ravirajputBit/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ravirajput-bit/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2109-adding-spaces-to-a-string](https://github.com/ravirajput-bit/leetcode/tree/master/2109-adding-spaces-to-a-string) |
