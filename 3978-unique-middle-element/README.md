@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/unique-middle-element">3978. Unique Middle Element</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> of odd length <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/unique-middle-element">4354. Unique Middle Element</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> of odd length <code>n</code>.</p>
 
 <p>Return <code>true</code> if the middle element of <code>nums</code> appears <strong>exactly</strong> once in the array. Otherwise return <code>false</code>.</p>
 
