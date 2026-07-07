@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/ravirajputBit/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0912-sort-an-array](https://github.com/ravirajputBit/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1122-relative-sort-array](https://github.com/ravirajputBit/leetcode/tree/main/1122-relative-sort-array/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/ravirajputBit/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/ravirajputBit/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/ravirajput-bit/leetcode/tree/master/1345-jump-game-iv) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ravirajputBit/leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ravirajput-bit/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/ravirajputBit/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1122-relative-sort-array](https://github.com/ravirajputBit/leetcode/tree/main/1122-relative-sort-array/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/ravirajputBit/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ravirajputBit/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ravirajputBit/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/ravirajputBit/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
