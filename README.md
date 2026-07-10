@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ravirajputBit/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ravirajputBit/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/ravirajputBit/leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ravirajputBit/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ravirajputBit/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ravirajputBit/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Binary Tree
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ravirajputBit/leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ravirajputBit/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/ravirajput-bit/leetcode/tree/master/3467-transform-array-by-parity) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ravirajputBit/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ravirajputBit/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ravirajputBit/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3683-earliest-time-to-finish-one-task](https://github.com/ravirajputBit/leetcode/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ravirajputBit/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/ravirajputBit/leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ravirajputBit/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ravirajputBit/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ravirajputBit/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ravirajputBit/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ravirajputBit/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ravirajputBit/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ravirajputBit/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ravirajputBit/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -613,4 +617,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ravirajputBit/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ravirajputBit/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 <!---LeetCode Topics End-->
