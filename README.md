@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ravirajput-bit/leetcode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ravirajputBit/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ravirajput-bit/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/ravirajput-bit/leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ravirajput-bit/leetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ravirajputBit/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/ravirajputBit/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ravirajputBit/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/ravirajputBit/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/ravirajput-bit/leetcode/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/ravirajput-bit/leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/ravirajputBit/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ravirajputBit/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/ravirajputBit/leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ravirajputBit/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ravirajputBit/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/ravirajput-bit/leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/ravirajput-bit/leetcode/tree/master/0392-is-subsequence) |
 | [0504-base-7](https://github.com/ravirajputBit/leetcode/tree/main/0504-base-7/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ravirajputBit/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/ravirajputBit/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
