@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ravirajputBit/leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ravirajputBit/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/ravirajput-bit/leetcode/tree/master/3467-transform-array-by-parity) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ravirajputBit/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ravirajputBit/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ravirajputBit/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ravirajputBit/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ravirajputBit/leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ravirajputBit/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ravirajputBit/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ravirajputBit/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ravirajputBit/leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ravirajputBit/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/ravirajputBit/leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/ravirajputBit/leetcode/tree/main/0476-number-complement/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/ravirajputBit/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ravirajputBit/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ravirajputBit/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
