@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ravirajput-bit/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ravirajputBit/leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ravirajputBit/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2079-watering-plants](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/2079-watering-plants/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/ravirajputBit/leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/ravirajput-bit/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2126-destroying-asteroids](https://github.com/ravirajputBit/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-average-waiting-time](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1701-average-waiting-time/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ravirajput-bit/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ravirajputBit/leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2079-watering-plants](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/2079-watering-plants/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/ravirajput-bit/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ravirajputBit/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ravirajputBit/leetcode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
