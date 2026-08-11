@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravirajputBit/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/ravirajputBit/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0137-single-number-ii](https://github.com/ravirajputBit/leetcode/tree/main/0137-single-number-ii/) | Medium |
+| [0139-word-break](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/ravirajputBit/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ravirajputBit/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ravirajputBit/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ravirajputBit/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ravirajputBit/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ravirajputBit/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0139-word-break](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0139-word-break/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ravirajputBit/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/ravirajput-bit/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ravirajputBit/leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ravirajputBit/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravirajputBit/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ravirajputBit/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0139-word-break](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/ravirajputBit/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/ravirajputBit/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/ravirajput-bit/leetcode/tree/master/0213-house-robber-ii) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ravirajputBit/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0139-word-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/ravirajputBit/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ravirajputBit/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/ravirajputBit/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/ravirajputBit/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0139-word-break](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0139-word-break/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/ravirajputBit/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/ravirajputBit/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ravirajputBit/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -652,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0139-word-break/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ravirajputBit/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -698,4 +704,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ravirajputBit/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/ravirajputBit/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ravirajputBit/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
