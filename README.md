@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/ravirajputBit/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/ravirajput-bit/leetcode/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ravirajputBit/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/ravirajputBit/leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ravirajput-bit/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravirajputBit/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/ravirajput-bit/leetcode/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ravirajputBit/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ravirajputBit/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ravirajputBit/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/ravirajputBit/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/ravirajputBit/leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ravirajputBit/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/ravirajput-bit/leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/ravirajputBit/leetcode/tree/main/0476-number-complement/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/ravirajputBit/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ravirajputBit/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ravirajputBit/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0881-boats-to-save-people/) | Medium |
 | [0991-broken-calculator](https://github.com/ravirajputBit/leetcode/tree/main/0991-broken-calculator/) | Medium |
 | [1323-maximum-69-number](https://github.com/ravirajputBit/leetcode/tree/main/1323-maximum-69-number/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ravirajputBit/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ravirajputBit/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/ravirajputBit/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
