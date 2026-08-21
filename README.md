@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/ravirajputBit/leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ravirajputBit/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/ravirajputBit/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0328-odd-even-linked-list](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0328-odd-even-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/ravirajputBit/leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ravirajput-bit/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ravirajputBit/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
