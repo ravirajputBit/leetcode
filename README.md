@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/ravirajputBit/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ravirajputBit/leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3618-split-array-by-prime-indices](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3618-split-array-by-prime-indices/) | Medium |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ravirajputBit/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/ravirajputBit/leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ravirajputBit/leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
