@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ravirajputBit/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0050-powx-n](https://github.com/ravirajput-bit/leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/ravirajputBit/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0231-power-of-two](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/ravirajputBit/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/ravirajputBit/leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Math
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ravirajputBit/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/ravirajputBit/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/ravirajput-bit/leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0231-power-of-two/) | Easy |
 | [0367-valid-perfect-square](https://github.com/ravirajput-bit/leetcode/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/ravirajputBit/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0412-fizz-buzz](https://github.com/ravirajput-bit/leetcode/tree/master/0412-fizz-buzz) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ravirajputBit/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0137-single-number-ii](https://github.com/ravirajputBit/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/ravirajputBit/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0231-power-of-two/) | Easy |
 | [0389-find-the-difference](https://github.com/ravirajput-bit/leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/ravirajputBit/leetcode/tree/main/0476-number-complement/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
