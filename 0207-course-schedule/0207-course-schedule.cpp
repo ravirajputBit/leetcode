@@ -1,0 +1,35 @@
+class Solution {
+public:
+    bool dfs(int src, vector<bool>& vis, vector<bool>& rec, vector<vector<int>>& prerequisites){
+        vis[src] = true;
+        rec[src] = true;
+        for(int i=0; i<prerequisites.size(); i++){
+            int u = prerequisites[i][1];
+            int v = prerequisites[i][0];
+            if(src == u){
+                if(!vis[v]){
+                    if(dfs(v, vis, rec, prerequisites))
+                        return true;
+                }
+                else{
+                    if(rec[v]){
+                        return true;
+                    } 
+                }
+            } 
+        }
+        rec[src] = false;
+        return false;
+    }
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        vector<bool> vis(numCourses, false);
+        vector<bool> rec(numCourses, false);
+        for(int i=0; i<numCourses; i++){
+            if(!vis[i]){
+                if(dfs(i, vis, rec, prerequisites))
+                    return false;
+            }
+        }
+        return true;
+    }
+};
