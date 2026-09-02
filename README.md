@@ -778,4 +778,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0207-course-schedule/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0595-big-countries](https://github.com/ravirajputBit/leetcode/tree/main/MySQL/Easy/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
