@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0310-minimum-height-trees](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0310-minimum-height-trees/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/ravirajputBit/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0310-minimum-height-trees](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0310-minimum-height-trees/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/ravirajputBit/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0210-course-schedule-ii/) | Medium |
+| [0310-minimum-height-trees](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0310-minimum-height-trees/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ravirajputBit/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/ravirajputBit/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ravirajputBit/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -776,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0210-course-schedule-ii/) | Medium |
+| [0310-minimum-height-trees](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0310-minimum-height-trees/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
