@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3828-final-element-after-subarray-deletions](https://github.com/ravirajputBit/leetcode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/ravirajputBit/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3866-first-unique-even-element](https://github.com/ravirajputBit/leetcode/tree/main/3866-first-unique-even-element/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/ravirajputBit/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ravirajputBit/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/ravirajputBit/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/ravirajputBit/leetcode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
