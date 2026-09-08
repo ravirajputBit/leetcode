@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ravirajputBit/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/ravirajput-bit/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0292-nim-game/) | Easy |
 | [0367-valid-perfect-square](https://github.com/ravirajput-bit/leetcode/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/ravirajputBit/leetcode/tree/main/0396-rotate-function/) | Medium |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0258-add-digits/) | Easy |
 | [1952-three-divisors](https://github.com/ravirajputBit/leetcode/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravirajputBit/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ravirajputBit/leetcode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/ravirajputBit/leetcode/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/ravirajput-bit/leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/ravirajputBit/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1260-shift-2d-grid](https://github.com/ravirajputBit/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
