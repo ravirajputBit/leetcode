@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/ravirajput-bit/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ravirajputBit/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ravirajputBit/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/ravirajput-bit/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ravirajputBit/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ravirajputBit/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3746-minimum-string-length-after-balanced-removals/) | Medium |
 | [3866-first-unique-even-element](https://github.com/ravirajputBit/leetcode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ravirajputBit/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/ravirajputBit/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/ravirajputBit/leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3746-minimum-string-length-after-balanced-removals/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/ravirajputBit/leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3798-largest-even-number](https://github.com/ravirajputBit/leetcode/tree/main/3798-largest-even-number/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/ravirajputBit/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
