@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ravirajput-bit/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/ravirajputBit/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0822-card-flipping-game](https://github.com/ravirajputBit/leetcode/tree/main/0822-card-flipping-game/) | Medium |
+| [0835-image-overlap](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/ravirajputBit/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/ravirajputBit/leetcode/tree/main/0912-sort-an-array/) | Medium |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0733-flood-fill/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/ravirajputBit/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
+| [0835-image-overlap](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0994-rotting-oranges/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ravirajputBit/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/1672-richest-customer-wealth/) | Easy |
