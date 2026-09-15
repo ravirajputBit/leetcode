@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ravirajput-bit/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0263-ugly-number/) | Easy |
 | [0292-nim-game](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0292-nim-game/) | Easy |
 | [0367-valid-perfect-square](https://github.com/ravirajput-bit/leetcode/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/ravirajputBit/leetcode/tree/main/0396-rotate-function/) | Medium |
