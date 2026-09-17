@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/ravirajputBit/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/ravirajput-bit/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ravirajputBit/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ravirajputBit/leetcode/tree/main/Java/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ravirajputBit/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ravirajputBit/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/ravirajputBit/leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/ravirajputBit/leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ravirajput-bit/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravirajputBit/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ravirajputBit/leetcode/tree/main/Java/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ravirajputBit/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ravirajputBit/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1584-min-cost-to-connect-all-points/) | Medium |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/ravirajputBit/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ravirajputBit/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ravirajputBit/leetcode/tree/main/Java/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ravirajputBit/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/ravirajputBit/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/ravirajputBit/leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0788-rotated-digits](https://github.com/ravirajputBit/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/ravirajputBit/leetcode/tree/main/0877-stone-game/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ravirajputBit/leetcode/tree/main/Java/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ravirajputBit/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ravirajputBit/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
@@ -666,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravirajputBit/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ravirajputBit/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ravirajputBit/leetcode/tree/main/Java/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Enumeration
