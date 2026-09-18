@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravirajputBit/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/ravirajputBit/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ravirajputBit/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0127-word-ladder](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/ravirajputBit/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0139-word-break/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ravirajputBit/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ravirajputBit/leetcode/tree/main/0112-path-sum/) | Easy |
+| [0127-word-ladder](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/0127-word-ladder/) | Hard |
 | [0200-number-of-islands](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0210-course-schedule-ii/) | Medium |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ravirajputBit/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/ravirajputBit/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/ravirajputBit/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0127-word-ladder](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0139-word-break/) | Medium |
 | [0242-valid-anagram](https://github.com/ravirajputBit/leetcode/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/ravirajputBit/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -900,4 +903,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0836-rectangle-overlap/) | Easy |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
