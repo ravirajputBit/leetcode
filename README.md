@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/ravirajput-bit/leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/ravirajputBit/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0322-coin-change](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ravirajputBit/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ravirajput-bit/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/ravirajputBit/leetcode/tree/main/0396-rotate-function/) | Medium |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0310-minimum-height-trees](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0310-minimum-height-trees/) | Medium |
+| [0322-coin-change](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/ravirajputBit/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0733-flood-fill](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0733-flood-fill/) | Easy |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ravirajputBit/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/ravirajputBit/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/ravirajput-bit/leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/ravirajput-bit/leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/ravirajputBit/leetcode/tree/main/0396-rotate-function/) | Medium |
@@ -897,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0518-coin-change-ii/) | Medium |
 ## 0-1 Knapsack
@@ -915,5 +919,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
