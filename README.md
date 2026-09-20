@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ravirajputBit/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/ravirajput-bit/leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0518-coin-change-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravirajputBit/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/ravirajputBit/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ravirajputBit/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/ravirajputBit/leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0518-coin-change-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0518-coin-change-ii/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/ravirajputBit/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0647-palindromic-substrings](https://github.com/ravirajputBit/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ravirajputBit/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -896,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0518-coin-change-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -909,4 +912,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/0127-word-ladder/) | Hard |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0518-coin-change-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
