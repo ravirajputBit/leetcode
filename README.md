@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ravirajputBit/leetcode/tree/main/Java/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ravirajputBit/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ravirajputBit/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1584-min-cost-to-connect-all-points/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ravirajputBit/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1672-richest-customer-wealth](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/1672-richest-customer-wealth/) | Easy |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/ravirajputBit/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravirajputBit/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ravirajputBit/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ravirajputBit/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/ravirajputBit/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ravirajput-bit/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ravirajputBit/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ravirajputBit/leetcode/tree/main/Java/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ravirajputBit/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ravirajputBit/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
