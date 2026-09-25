@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ravirajputBit/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3524-find-x-value-of-array-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ravirajputBit/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3618-split-array-by-prime-indices/) | Medium |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ravirajputBit/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ravirajputBit/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ravirajputBit/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3524-find-x-value-of-array-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/ravirajputBit/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ravirajputBit/leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ravirajputBit/leetcode/tree/main/Java/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ravirajputBit/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3524-find-x-value-of-array-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ravirajputBit/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
