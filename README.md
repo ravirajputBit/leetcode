@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/ravirajput-bit/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ravirajputBit/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ravirajputBit/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Tree
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ravirajputBit/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/ravirajputBit/leetcode/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/ravirajputBit/leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ravirajputBit/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ravirajputBit/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -942,4 +944,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
