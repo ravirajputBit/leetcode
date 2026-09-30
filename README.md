@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ravirajputBit/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0445-add-two-numbers-ii](https://github.com/ravirajputBit/leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/ravirajput-bit/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ravirajputBit/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/ravirajputBit/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/ravirajputBit/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0763-partition-labels](https://github.com/ravirajputBit/leetcode/tree/main/0763-partition-labels/) | Medium |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ravirajputBit/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ravirajputBit/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -946,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
