@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ravirajputBit/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/ravirajputBit/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravirajputBit/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravirajputBit/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/ravirajputBit/leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravirajputBit/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/ravirajputBit/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/ravirajputBit/leetcode/tree/main/0058-length-of-last-word/) | Easy |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0494-target-sum](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0494-target-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/ravirajputBit/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Quickselect
@@ -951,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
