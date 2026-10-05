@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ravirajputBit/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0445-add-two-numbers-ii](https://github.com/ravirajputBit/leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0856-score-of-parentheses/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/ravirajput-bit/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/ravirajputBit/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0763-partition-labels](https://github.com/ravirajputBit/leetcode/tree/main/0763-partition-labels/) | Medium |
+| [0856-score-of-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ravirajputBit/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -964,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
