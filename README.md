@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ravirajputBit/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ravirajputBit/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/ravirajputBit/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ravirajputBit/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ravirajputBit/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2256-minimum-average-difference](https://github.com/ravirajputBit/leetcode/tree/main/2256-minimum-average-difference/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/ravirajput-bit/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ravirajput-bit/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ravirajputBit/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/ravirajputBit/leetcode/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/ravirajputBit/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ravirajputBit/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/ravirajput-bit/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ravirajputBit/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ravirajputBit/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ravirajputBit/leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0912-sort-an-array](https://github.com/ravirajputBit/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravirajputBit/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ravirajputBit/leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -761,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/ravirajputBit/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ravirajputBit/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/ravirajput-bit/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/2405-optimal-partition-of-string/) | Medium |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ravirajputBit/leetcode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ravirajputBit/leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
