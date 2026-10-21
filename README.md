@@ -747,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/ravirajputBit/leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3798-largest-even-number](https://github.com/ravirajputBit/leetcode/tree/main/3798-largest-even-number/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/ravirajputBit/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
