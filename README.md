@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/ravirajputBit/leetcode/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravirajputBit/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ravirajputBit/leetcode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2409-count-days-spent-together](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/2409-count-days-spent-together/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/ravirajputBit/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2443-sum-of-number-and-its-reverse](https://github.com/ravirajputBit/leetcode/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ravirajput-bit/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ravirajput-bit/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2109-adding-spaces-to-a-string](https://github.com/ravirajput-bit/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/2405-optimal-partition-of-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/2409-count-days-spent-together/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ravirajputBit/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ravirajputBit/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/ravirajputBit/leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
