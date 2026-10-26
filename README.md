@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/ravirajputBit/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -22,8 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ravirajputBit/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ravirajputBit/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ravirajputBit/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -44,8 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ravirajputBit/leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ravirajputBit/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ravirajputBit/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -77,8 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ravirajputBit/leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ravirajputBit/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ravirajputBit/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravirajputBit/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -103,8 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ravirajputBit/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ravirajputBit/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ravirajputBit/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ravirajputBit/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -124,8 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/ravirajputBit/leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/ravirajputBit/leetcode/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ravirajputBit/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -278,8 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3904-smallest-stable-index-ii/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ravirajput-bit/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravirajputBit/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/ravirajputBit/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ravirajputBit/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -338,8 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ravirajputBit/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3866-first-unique-even-element](https://github.com/ravirajputBit/leetcode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/ravirajputBit/leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/ravirajputBit/leetcode/tree/main/0018-4sum/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravirajputBit/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -373,8 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ravirajputBit/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/ravirajputBit/leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/ravirajputBit/leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/ravirajputBit/leetcode/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/ravirajputBit/leetcode/tree/main/0049-group-anagrams/) | Medium |
@@ -423,8 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/ravirajputBit/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ravirajputBit/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0127-word-ladder](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/0127-word-ladder/) | Hard |
@@ -450,8 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/ravirajputBit/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ravirajputBit/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/ravirajputBit/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/ravirajputBit/leetcode/tree/main/0061-rotate-list/) | Medium |
@@ -466,8 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ravirajputBit/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ravirajputBit/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ravirajputBit/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/ravirajputBit/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0050-powx-n](https://github.com/ravirajput-bit/leetcode/tree/master/0050-powx-n) |
@@ -477,8 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/ravirajputBit/leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0009-palindrome-number](https://github.com/ravirajputBit/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/ravirajputBit/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/ravirajput-bit/leetcode/tree/master/0050-powx-n) |
@@ -548,8 +548,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/ravirajputBit/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -586,27 +586,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3524-find-x-value-of-array-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ravirajputBit/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/ravirajputBit/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0139-word-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/ravirajputBit/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Interactive
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ravirajputBit/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0191-number-of-1-bits](https://github.com/ravirajputBit/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ravirajputBit/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/ravirajputBit/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ravirajputBit/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/ravirajputBit/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -615,22 +615,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ravirajputBit/leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0912-sort-an-array](https://github.com/ravirajputBit/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ravirajputBit/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/ravirajputBit/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/ravirajputBit/leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0912-sort-an-array](https://github.com/ravirajputBit/leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/ravirajputBit/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/ravirajputBit/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ravirajputBit/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -650,8 +650,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3746-minimum-string-length-after-balanced-removals/) | Medium |
 | [3866-first-unique-even-element](https://github.com/ravirajputBit/leetcode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0067-add-binary](https://github.com/ravirajputBit/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0137-single-number-ii](https://github.com/ravirajputBit/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/ravirajputBit/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
@@ -666,8 +666,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0048-rotate-image](https://github.com/ravirajputBit/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ravirajputBit/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0200-number-of-islands/) | Medium |
@@ -683,8 +683,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/ravirajputBit/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ravirajputBit/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0200-number-of-islands/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
@@ -695,8 +695,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ravirajputBit/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravirajputBit/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/ravirajputBit/leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
@@ -764,8 +764,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/ravirajputBit/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravirajputBit/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ravirajputBit/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -774,8 +774,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1952-three-divisors](https://github.com/ravirajputBit/leetcode/tree/main/1952-three-divisors/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/ravirajputBit/leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2443-sum-of-number-and-its-reverse](https://github.com/ravirajputBit/leetcode/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
@@ -786,8 +786,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ravirajputBit/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0435-non-overlapping-intervals](https://github.com/ravirajputBit/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/ravirajput-bit/leetcode/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ravirajputBit/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -817,13 +817,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/ravirajputBit/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ravirajput-bit/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/ravirajputBit/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ravirajputBit/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0258-add-digits](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0258-add-digits/) | Easy |
 | [1952-three-divisors](https://github.com/ravirajputBit/leetcode/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravirajputBit/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -835,8 +835,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-split-array-by-prime-indices](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3618-split-array-by-prime-indices/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ravirajputBit/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0067-add-binary](https://github.com/ravirajputBit/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/ravirajput-bit/leetcode/tree/master/0412-fizz-buzz) |
@@ -860,8 +860,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3726-remove-zeros-in-decimal-representation](https://github.com/ravirajputBit/leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/ravirajputBit/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0724-find-pivot-index](https://github.com/ravirajputBit/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ravirajput-bit/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ravirajputBit/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
@@ -877,60 +877,60 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/ravirajputBit/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0139-word-break](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0139-word-break/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ravirajputBit/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravirajputBit/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ravirajputBit/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ravirajputBit/leetcode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ravirajputBit/leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 ## Hash Function
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0572-subtree-of-another-tree](https://github.com/ravirajputBit/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Brainteaser
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0292-nim-game/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/ravirajputBit/leetcode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/ravirajputBit/leetcode/tree/main/0877-stone-game/) | Medium |
 | [3828-final-element-after-subarray-deletions](https://github.com/ravirajputBit/leetcode/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0494-target-sum](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0494-target-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/ravirajputBit/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/ravirajputBit/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ravirajputBit/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ravirajputBit/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0207-course-schedule](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0210-course-schedule-ii/) | Medium |
 | [0310-minimum-height-trees](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0310-minimum-height-trees/) | Medium |
@@ -942,91 +942,91 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/ravirajputBit/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ravirajputBit/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Brute-Force Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0139-word-break](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0139-word-break/) | Medium |
 ## Timsort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0881-boats-to-save-people](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0881-boats-to-save-people/) | Medium |
 ## Topological Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0207-course-schedule](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0210-course-schedule-ii/) | Medium |
 | [0310-minimum-height-trees](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0310-minimum-height-trees/) | Medium |
 ## Directed Acyclic Graph
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0207-course-schedule](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0207-course-schedule/) | Medium |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0595-big-countries](https://github.com/ravirajputBit/leetcode/tree/main/MySQL/Easy/0595-big-countries/) | Easy |
 ## Shortest Path
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0743-network-delay-time](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Dijkstra's Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0743-network-delay-time](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0743-network-delay-time/) | Medium |
 ## Minimum Spanning Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1584-min-cost-to-connect-all-points/) | Medium |
 ## Prim's Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1584-min-cost-to-connect-all-points/) | Medium |
 ## Kruskal's Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1584-min-cost-to-connect-all-points/) | Medium |
 ## Borůvka's Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1584-min-cost-to-connect-all-points/) | Medium |
 ## Minimax
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0292-nim-game/) | Easy |
 ## Nim Game
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0292-nim-game/) | Easy |
 ## Impartial Game
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0292-nim-game/) | Easy |
 ## Knapsack Problem
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0322-coin-change](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0518-coin-change-ii/) | Medium |
 ## 0-1 Knapsack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0494-target-sum](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0494-target-sum/) | Medium |
 ## Geometry
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0836-rectangle-overlap](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ravirajputBit/leetcode/tree/main/Java/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Bidirectional Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0127-word-ladder](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/0127-word-ladder/) | Hard |
 ## Complete Knapsack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0322-coin-change](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0518-coin-change-ii/) | Medium |
 ## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/0032-longest-valid-parentheses/) | Hard |
@@ -1039,20 +1039,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Longest Common Subsequence
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1143-longest-common-subsequence](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1143-longest-common-subsequence/) | Medium |
 ## Longest Increasing Subsequence
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0300-longest-increasing-subsequence/) | Medium |
 ## Binary Indexed Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Fermat's Little Theorem
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
