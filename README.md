@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3866-first-unique-even-element](https://github.com/ravirajputBit/leetcode/tree/main/3866-first-unique-even-element/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/ravirajputBit/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3904-smallest-stable-index-ii/) | Medium |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3524-find-x-value-of-array-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ravirajputBit/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ravirajputBit/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/ravirajputBit/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
