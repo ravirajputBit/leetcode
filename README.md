@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ravirajputBit/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ravirajputBit/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/ravirajput-bit/leetcode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0494-target-sum](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0518-coin-change-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravirajputBit/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ravirajputBit/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/ravirajputBit/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/ravirajput-bit/leetcode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravirajputBit/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/ravirajputBit/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ravirajput-bit/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ravirajput-bit/leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/ravirajputBit/leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ravirajputBit/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0504-base-7](https://github.com/ravirajputBit/leetcode/tree/main/0504-base-7/) | Easy |
 | [0509-fibonacci-number](https://github.com/ravirajputBit/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravirajputBit/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
