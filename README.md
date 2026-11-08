@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/ravirajputBit/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1306-jump-game-iii](https://github.com/ravirajputBit/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ravirajputBit/leetcode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/1971-find-if-path-exists-in-graph/) | Easy |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/ravirajputBit/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ravirajputBit/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ravirajputBit/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/ravirajputBit/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/ravirajput-bit/leetcode/tree/master/1345-jump-game-iv) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/ravirajputBit/leetcode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1306-jump-game-iii](https://github.com/ravirajputBit/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/ravirajput-bit/leetcode/tree/master/1345-jump-game-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/1971-find-if-path-exists-in-graph/) | Easy |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ravirajputBit/leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1122-relative-sort-array](https://github.com/ravirajputBit/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ravirajputBit/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1704-determine-if-string-halves-are-alike](https://github.com/ravirajputBit/leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ravirajputBit/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ravirajputBit/leetcode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
@@ -691,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ravirajputBit/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/1672-richest-customer-wealth/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ravirajputBit/leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -703,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ravirajputBit/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0200-number-of-islands/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/1971-find-if-path-exists-in-graph/) | Easy |
