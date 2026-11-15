@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ravirajputBit/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ravirajputBit/leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ravirajputBit/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/ravirajput-bit/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/3483-unique-3-digit-even-numbers/) | Easy |
@@ -799,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/2747-count-zero-request-servers/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -900,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/ravirajputBit/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ravirajputBit/leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ravirajputBit/leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ravirajputBit/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/ravirajputBit/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3904-smallest-stable-index-ii/) | Medium |
