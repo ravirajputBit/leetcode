@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravirajputBit/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ravirajputBit/leetcode/tree/main/Java/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ravirajputBit/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ravirajputBit/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/ravirajputBit/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ravirajputBit/leetcode/tree/main/Java/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/ravirajputBit/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/ravirajputBit/leetcode/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1837-sum-of-digits-in-base-k](https://github.com/ravirajputBit/leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ravirajputBit/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1143-longest-common-subsequence/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ravirajputBit/leetcode/tree/main/Java/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ravirajputBit/leetcode/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -888,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ravirajputBit/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ravirajput-bit/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ravirajputBit/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ravirajputBit/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ravirajputBit/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
