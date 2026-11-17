@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ravirajputBit/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/ravirajputBit/leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [0941-valid-mountain-array](https://github.com/ravirajputBit/leetcode/tree/main/Python/Easy/0941-valid-mountain-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/0994-rotting-oranges/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ravirajputBit/leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1122-relative-sort-array](https://github.com/ravirajputBit/leetcode/tree/main/1122-relative-sort-array/) | Easy |
