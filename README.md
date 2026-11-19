@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ravirajputBit/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/ravirajputBit/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/ravirajputBit/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ravirajputBit/leetcode/tree/main/Python/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/ravirajputBit/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ravirajputBit/leetcode/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ravirajputBit/leetcode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ravirajputBit/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/ravirajput-bit/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ravirajputBit/leetcode/tree/main/Python/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/2747-count-zero-request-servers/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ravirajputBit/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ravirajputBit/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -839,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/ravirajput-bit/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/2405-optimal-partition-of-string/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ravirajputBit/leetcode/tree/main/Python/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ravirajputBit/leetcode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ravirajputBit/leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ravirajputBit/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
