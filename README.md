@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/ravirajputBit/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ravirajputBit/leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ravirajputBit/leetcode/tree/main/Python3/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/ravirajput-bit/leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ravirajputBit/leetcode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ravirajputBit/leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ravirajputBit/leetcode/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravirajputBit/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ravirajputBit/leetcode/tree/main/Python3/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3467-transform-array-by-parity](https://github.com/ravirajput-bit/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ravirajputBit/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/ravirajputBit/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ravirajputBit/leetcode/tree/main/Python3/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3524-find-x-value-of-array-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ravirajputBit/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
