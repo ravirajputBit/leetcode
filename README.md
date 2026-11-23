@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/ravirajputBit/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/ravirajput-bit/leetcode/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ravirajputBit/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/ravirajputBit/leetcode/tree/main/Python3/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/ravirajputBit/leetcode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/ravirajputBit/leetcode/tree/main/0991-broken-calculator/) | Medium |
 | [1323-maximum-69-number](https://github.com/ravirajputBit/leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ravirajputBit/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/ravirajputBit/leetcode/tree/main/Python3/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ravirajputBit/leetcode/tree/main/Java/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/ravirajputBit/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -902,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/ravirajputBit/leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/ravirajputBit/leetcode/tree/main/Python3/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ravirajput-bit/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ravirajputBit/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -1098,4 +1101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravirajputBit/leetcode/tree/main/C++/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ravirajputBit/leetcode/tree/main/Python3/Medium/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ravirajputBit/leetcode/tree/main/Python3/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
