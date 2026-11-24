@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ravirajputBit/leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ravirajputBit/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ravirajputBit/leetcode/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/ravirajput-bit/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/3483-unique-3-digit-even-numbers/) | Easy |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ravirajputBit/leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ravirajputBit/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ravirajputBit/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ravirajputBit/leetcode/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ravirajputBit/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3524-find-x-value-of-array-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/ravirajputBit/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ravirajputBit/leetcode/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -820,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-sum-of-number-and-its-reverse](https://github.com/ravirajputBit/leetcode/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2951-find-the-peaks](https://github.com/ravirajputBit/leetcode/tree/main/2951-find-the-peaks/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ravirajputBit/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ravirajputBit/leetcode/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ravirajputBit/leetcode/tree/main/C++/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ravirajputBit/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ravirajputBit/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -872,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ravirajput-bit/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/ravirajputBit/leetcode/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ravirajputBit/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ravirajputBit/leetcode/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/ravirajputBit/leetcode/tree/main/C++/Medium/3618-split-array-by-prime-indices/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ravirajputBit/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Simulation
